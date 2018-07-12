@@ -1,5 +1,16 @@
-# Rancing_game-     [GitHub](https://github.com/gaurav-210)
+# Rancing_game-  
+
+## Designed and developed by[Gaurav Chauhan](https://github.com/gaurav-210)
+
 Game creation in any programming language is very rewarding, and also makes for a great teaching tool. With game development, you often have quite a bit of logic, mathematics, physics, artificial intelligence, and other things, all of which come together for game creation. Not only this, but the topic is games, so it can be very fun. Many times people like to visualize the programs they are creating, as it can help people to learn programming logic quickly. Games are fantastic for this, as your are specifically programming everything you see.
+
+--------------------------------------------------------------------------------------
+## WHAT THIS APPLICATION WILL DO ?
+   This gaming application is a car game with animation effects in Python used to play game with cars and the objects.
+
+* The game is simple car game where the player has to avoid obstacles to get points for each obstacle dodged.
+* The game shows the score and asks for a option for replay when the player crashes his car.
+
 
 ----------------------------------------------------------------------------------------------------------
 # Getting Started
@@ -32,7 +43,7 @@ Game creation in any programming language is very rewarding, and also makes for 
 
 # finally the game begins........
 
-![finalStep](images/start1.PNG) 
+![finalStep](images/pause.PNG) 
 
 
 
@@ -42,7 +53,7 @@ Game creation in any programming language is very rewarding, and also makes for 
 
 
 
-![Step4](images/pause.PNG)
+![Step4](images/pause_2.PNG)
 
 ----------------------------------------------------------------------------------------------------- 
 
@@ -56,7 +67,7 @@ Game creation in any programming language is very rewarding, and also makes for 
 ![Step5](images/paused.PNG)
 
 ------------------------------------------------------------------------------------------
-                                        #THANK YOU
+                                                THANK YOU
 
 # Special Thanks To 
 ## Acadview
