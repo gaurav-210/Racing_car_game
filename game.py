@@ -133,7 +133,7 @@ def introduction():
         gamedisplays.blit(atextSurf,atextRect)
         gamedisplays.blit(rtextSurf,rtextRect)
         gamedisplays.blit(ptextSurf,ptextRect)
-        button("BACK",600,450,100,50,DARKGRAY,bright_grey,"menu")
+        button("BACK",600,450,100,50,DARKGRAY,bright_gray,"menu")
         pygame.display.update()
         clock.tick(30)
 
