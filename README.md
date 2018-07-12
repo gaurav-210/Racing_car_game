@@ -19,13 +19,52 @@ Game creation in any programming language is very rewarding, and also makes for 
 
 ### To start the game click on Start Button
 
-![Step3](images/second.PNG) 
+![Step2](images/second.PNG) 
 
 ----------------------------------------------------------------------------------------------------------
 
 
 ### To read the instruction of the game click on Instruction Button
 
-![Step2](images/instruction.PNG) 
+![Step3](images/instruction.PNG) 
 
 --------------------------------------------------------------------------------------------------------
+
+# finally the game begins........
+
+![finalStep](images/start1.PNG) 
+
+
+
+--------------------------------------------------------------------------------------------
+
+### If you want to pause the game you can click on paused button which is given on right top corner of the window  
+
+
+
+![Step4](images/pause.PNG)
+
+----------------------------------------------------------------------------------------------------- 
+
+### Whwn you paused the game you have three choices...
+
+#### 1. Continue
+#### 2. Restart 
+#### 4. Main Menu
+
+
+![Step5](images/paused.PNG)
+
+------------------------------------------------------------------------------------------
+                                        #THANK YOU
+
+# Special Thanks To 
+## Acadview
+## Aishwarya Sir
+## [Mukesh Dubey](https://github.com/MukeshDubey1420)
+## Rahul 
+
+
+
+
+
