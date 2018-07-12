@@ -71,7 +71,7 @@ Game creation in any programming language is very rewarding, and also makes for 
 
 ----------------------------------------------------------------------------------------------------- 
 
-### Whwn you paused the game you have three choices...
+### When you paused the game you have three choices...
 
 #### 1. Continue
 #### 2. Restart 
