@@ -89,7 +89,7 @@ Game creation in any programming language is very rewarding, and also makes for 
 
 ### Special Thanks To 
      Acadview
-     Aishwarya Sir
+     Aishwary Sir
      Mukesh Dubey
      Rahul 
 
