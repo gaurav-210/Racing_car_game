@@ -83,11 +83,11 @@ Game creation in any programming language is very rewarding, and also makes for 
 ------------------------------------------------------------------------------------------
                                                 THANK YOU
 
-## Special Thanks To 
-### Acadview
-### Aishwarya Sir
-### [Mukesh Dubey](https://github.com/MukeshDubey1420)
-### Rahul 
+### Special Thanks To 
+     Acadview
+     Aishwarya Sir
+     Mukesh Dubey
+     Rahul 
 
 
 
