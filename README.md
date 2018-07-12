@@ -11,14 +11,21 @@ Game creation in any programming language is very rewarding, and also makes for 
 
 ### To run interminal type :-python game.py
 
+=======================================================================================================
 
 ![Step1](images/start.PNG)
+
+--------------------------------------------------------------------------------------------------------
+
+### To start the game click on Start Button
+
+![Step3](images/second.PNG) 
+
+----------------------------------------------------------------------------------------------------------
+
 
 ### To read the instruction of the game click on Instruction Button
 
 ![Step2](images/instruction.PNG) 
 
-
-### To start the game click on Start Button
-
-![Step3](images/second.PNG) 
+--------------------------------------------------------------------------------------------------------
