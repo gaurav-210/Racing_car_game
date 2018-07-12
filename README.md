@@ -75,12 +75,16 @@ Game creation in any programming language is very rewarding, and also makes for 
 
 #### 1. Continue
 #### 2. Restart 
-#### 4. Main Menu
+#### 3. Main Menu
 
 
 ![Step5](images/paused.PNG)
 
 ------------------------------------------------------------------------------------------
+
+
+
+
                                                 THANK YOU
 
 ### Special Thanks To 
