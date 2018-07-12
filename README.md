@@ -7,9 +7,15 @@ Game creation in any programming language is very rewarding, and also makes for 
 ### 2. Matching PyGame version from pip.
 ### Download and install python 3.3+, make sure its on your PATH. Now install pygame!
 
-## pip install pygame
+## * pip install pygame
 
 ### To run interminal type :-python game.py
 
 
 ![Step1](images/start.PNG)
+
+### To start the game click on Start Button
+
+![Step2](images/second.PNG) 
+
+### To read the instruction of the game click on Instruction Button
