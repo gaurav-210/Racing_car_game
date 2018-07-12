@@ -19,11 +19,11 @@ Game creation in any programming language is very rewarding, and also makes for 
 
 ---------------------------------------------------------------------------------------------
 ### Objectives Achived
--[x]Simple GUI for the game window
--[x]Add the car icon in the game
--[x]Use sound and audio effects
--[x]Display score as the no of obstacles dodged
--[x]Replay options for the game to restart
+- [x] Simple GUI for the game window
+- [x] Add the car icon in the game
+- [x] Use sound and audio effects
+- [x] Display score as the no of obstacles dodged
+- [x] Replay options for the game to restart
 
 
 ----------------------------------------------------------------------------------------------------------
