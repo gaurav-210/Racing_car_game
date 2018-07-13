@@ -1,4 +1,4 @@
-# Rancing_game-  
+# Racing_car_Game  
 
 ## Designed and developed by [Gaurav Chauhan](https://github.com/gaurav-210)
 
