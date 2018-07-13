@@ -57,7 +57,7 @@ Game creation in any programming language is very rewarding, and also makes for 
 
 # finally the game begins........
 
-![finalStep](images/pause.PNG) 
+![finalStep](images/start1.PNG) 
 
 
 
